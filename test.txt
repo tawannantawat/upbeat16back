@@ -1,0 +1,7 @@
+{
+    "player": "Player 1",
+    "model": {
+        "myRegion": [x1, y1],
+        "attackRegion": [x2, y2]
+    }
+}
